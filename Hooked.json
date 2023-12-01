@@ -1,10 +1,58 @@
 {
   "name": "Hooked's App Repo",
-  "identifier": "com.example.MyApps",
+  "identifier": "github.com/Poopsock98/Hooked-s-App-Repo",
   "subtitle": "A simple way to get a bunch of nice tweaks in one place",
   "description": "Thanks for using my source, its sooooo good",
   "iconURL": "https://imgur.com/90sP5JI",
   "headerURL": "https://imgur.com/90sP5JI",
   "website": "https://raw.githubusercontent.com/Poopsock98/Hooked-s-App-Repo/main/Hooked.json",
-  "tintColor": "#4185A9"
+  "tintColor": "#4185A9",
+
+  "apps": [
+      {
+          "name": "My Example App",
+          "bundleIdentifier": "com.example.myapp",
+          "developerName": "Example Developer",
+          "subtitle": "An awesome app.",
+    "localizedDescription": "This is an awesome app only available on AltStore.",
+    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+          "tintColor": "#5CA399",
+    "screenshotURLs": [
+              "https://example.com/myapp_screenshot1.png",
+              "https://example.com/myapp_screenshot2.png",
+              "https://example.com/myapp_screenshot3.png"
+          ],
+          "versions": [
+              {
+                  "version": "1.1",
+                  "date": "2022-05-01T09:00:00-08:00",
+        "size": 20000000,
+        "downloadURL": "https://example.com/myapp_v1.1.ipa",
+        "localizedDescription": "New features and bug fixes.",
+        "minOSVersion": "12.0"},
+              {
+                  "version": "1.0",
+                  "date": "2022-03-16T07:00:00-08:00",
+        "size": 10000000,
+        "downloadURL": "https://example.com/myapp_v1.0.ipa",
+        "localizedDescription": "Initial release."
+              }
+          ],
+    "appPermissions": {
+      "entitlements": [
+        {
+          "name": "com.apple.security.application-groups"
+        },
+        {
+          "name": "com.apple.developer.siri"
+        }
+      ],
+      "privacy": [
+        {
+          "name": "PhotoLibrary",
+          "usageDescription": "App saves photos to your Photo Library."
+        }
+      ]
+    }
+  }
 }
