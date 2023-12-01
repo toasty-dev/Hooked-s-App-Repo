@@ -1,8 +1,8 @@
 {
-  "name": "My Example Source",
+  "name": "Hooked's App Repo",
   "identifier": "com.example.MyApps",
-  "subtitle": "All my apps in one place.",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "subtitle": "A simple way to get a bunch of nice tweaks in one place",
+  "description": "Thanks for using my source, its sooooo good",
   "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
   "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
   "website": "https://example.com",
