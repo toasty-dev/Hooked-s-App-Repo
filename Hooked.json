@@ -50,5 +50,16 @@
       "localizedDescription": "A discord client mod like betterdiscord or vencord.",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
+    {
+      "name": "Scarlet Alpha",
+      "bundleIdentifier": "com.scarlet.ios.appstore",
+      "version": "1.0",
+      "versionDate": "2023-11-24",
+      "size": "15000000",
+      "downloadURL": "https://www.dropbox.com/scl/fi/06a9jh553lz2il0d5gysw/ScarletAlpha.ipa?rlkey=5jjzng89opcaspv3sv7cyhu56&dl=1",
+      "developerName": "Scarlet",
+      "localizedDescription": "A beta version of scarlet that allows the use of outside certificates.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
   ]
 }
