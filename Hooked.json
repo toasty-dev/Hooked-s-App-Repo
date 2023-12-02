@@ -215,5 +215,75 @@
       "localizedDescription": "Twitch Injected with TwitchPlus",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
+    {
+      "name": "YTMusicUltimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "version": "1.5-6.17.5",
+      "versionDate": "2023-08-31",
+      "size": 60213808,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/YTMusicUltimate-1.5-6.17.5.ipa",
+      "developerName": "Google LLC.",
+      "localizedDescription": "Youtube Music injected with YTMusicUltimate",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+    },
+    {
+      "name": "DebToIPA",
+      "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+      "version": "1.1.1",
+      "versionDate": "2023-08-12",
+      "size": 1238055,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-12-2023/DebToIPA-1.1.1.ipa",
+      "developerName": "DepToIpa",
+      "localizedDescription": "Will change a Deb file to a usable IPA",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
+    },
+    {
+      "name": "Procreate",
+      "bundleIdentifier": "au.com.savageinteractive.procreate",
+      "version": "5.3.5",
+      "versionDate": "2023-07-25",
+      "size": 492346237,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Procreate-5.3.5.ipa",
+      "developerName": "Procreate",
+      "localizedDescription": "The best art app for ios",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "version": "4.8.2",
+      "versionDate": "2023-06-25",
+      "size": 7120626,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-25-2023/ESign-4.8.2.ipa",
+      "developerName": "Esign",
+      "localizedDescription": "A app for signing unsigned apps.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
+    },
+    {
+      "name": "Cowabunga",
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "version": "10.3.2",
+      "versionDate": "2023-06-04",
+      "size": 16288960,
+      "minOSVersion": "14.0",
+      "maxOSVersion": "16.1.2",
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Cowabunga-10.3.2.ipa",
+      "developerName": "leemin",
+      "localizedDescription": "A kfd exploit jailbreak alternative",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+    },
+    {
+      "name": "Cluckabunga",
+      "bundleIdentifier": "com.leemin.Cluckabunga",
+      "version": "10.3.2",
+      "versionDate": "2023-06-04",
+      "size": 8162000,
+      "minOSVersion": "16.0",
+      "maxOSVersion": "16.6b1",
+      "downloadURL": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2.1/Cluckabunga.ipa",
+      "developerName": "leemin",
+      "localizedDescription": "A kfd exploit jailbreak alternative",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
+    },
   ]
 }
