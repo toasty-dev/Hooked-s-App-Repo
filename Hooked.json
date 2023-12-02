@@ -39,5 +39,16 @@
       "localizedDescription": "Snapchat wicked, when entering a license just enter any 15 digit email and a 15 digit license and it will verify.",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
+    {
+      "name": "Enminity for Discord",
+      "bundleIdentifier": "com.enminity.ios.discord",
+      "version": "2.2.6",
+      "versionDate": "2023-11-24",
+      "size": "98173000",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ota8812dk80icudxlg8sz/Enmity-1.ipa?rlkey=qe05h3s1znz9oxzicw5tt3u98&dl=0",
+      "developerName": "SnapChat",
+      "localizedDescription": "A discord client mod like betterdiscord or vencord.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
   ]
 }
