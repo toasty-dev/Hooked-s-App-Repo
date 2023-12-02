@@ -11,7 +11,7 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "version": "18.14.1._3.0",
       "versionDate": "2023-11-24",
-      "size": 120979000,
+      "size": "120979000",
       "downloadURL": "https://www.dropbox.com/scl/fi/enapckddgz7ngb0qv8w16/uYouPlus_18.14.1_3.0.ipa?rlkey=jfnp9j7uokky2ubtkozvgq3ul&dl=1",
       "developerName": "Google LLC.",
       "localizedDescription": "Youtube injected with uYou+",
@@ -22,11 +22,22 @@
       "bundleIdentifier": "com.spotify.ios.spotify",
       "version": "8.8.81",
       "versionDate": "2023-11-24",
-      "size": 65423000,
+      "size": "65423000",
       "downloadURL": "https://www.dropbox.com/scl/fi/f4c8h24pe0o7bzz9wum01/Spotify_8.8.81.ipa?rlkey=xibeedtpaodh84tf62yfx5rgd&dl=1",
       "developerName": "Spotify",
       "localizedDescription": "Spotify with free premium",
       "iconURL": "https://www.dropbox.com/scl/fi/ch8t5wr5822mu3m49ys49/image_2023-12-01_214042622.png?rlkey=qfbmjwggbllu0smar2bu0etom&dl=1"
+    },
+    {
+      "name": "Snapchat Wicked Crack",
+      "bundleIdentifier": "com.snapchat.ios.snapchat",
+      "version": "12.59.0",
+      "versionDate": "2023-11-24",
+      "size": "100996000",
+      "downloadURL": "https://www.dropbox.com/scl/fi/bx4o7r54xyfol4xtt9o41/Snapchat_Wicked_Cracked_v.12.59.0_WuXu1_uploadedBy_ipabnb_starfiles.co.ipa?rlkey=xelepq3x1ogxhxy1fs7g2xmwc&dl=1",
+      "developerName": "SnapChat",
+      "localizedDescription": "Snapchat wicked, when entering a license just enter any 15 digit email and a 15 digit license and it will verify.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
   ]
 }
