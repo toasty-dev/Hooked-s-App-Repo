@@ -171,5 +171,16 @@
       "localizedDescription": "Wifi speed test..",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
     },
+    {
+      "name": "Quizard",
+      "bundleIdentifier": "com.quizard.ios.quizard",
+      "version": "5.2.1",
+      "versionDate": "2023-11-18",
+      "size": 7517000,
+      "downloadURL": "https://download.starfiles.co/cnz4ahPK5S7a",
+      "developerName": "Quizard",
+      "localizedDescription": "Ai math helper",
+      "iconURL": "https://download.starfiles.co/R5BXjNOOHZNH?preview"
+    },
   ]
 }
