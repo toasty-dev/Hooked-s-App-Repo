@@ -101,18 +101,7 @@
       "versionDate": "2023-11-18",
       "size": 123957000,
       "downloadURL": "https://ipogo.app/download/ipogo-3.2.0.ipa",
-      "developerName": "Tiktok",
-      "localizedDescription": "iPogo is a spoofer for Pokemon Go, this just allows you to move anywhere using it, pretty simple.",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
-    },
-    {
-      "name": "iPogo",
-      "bundleIdentifier": "com.ipogo.ios.pokemon",
-      "version": "3.2.0",
-      "versionDate": "2023-11-18",
-      "size": 123957000,
-      "downloadURL": "https://ipogo.app/download/ipogo-3.2.0.ipa",
-      "developerName": "Tiktok",
+      "developerName": "Nintendo",
       "localizedDescription": "iPogo is a spoofer for Pokemon Go, this just allows you to move anywhere using it, pretty simple.",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
