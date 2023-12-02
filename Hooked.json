@@ -7,7 +7,15 @@
   "website": "https://raw.githubusercontent.com/Poopsock98/Hooked-s-App-Repo/main/Hooked.json",
   "apps": [
     {
-      "name": "uYou++"
-    }
+      "name": "YouTubeOLED",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "18.46.3",
+      "versionDate": "2023-11-24",
+      "size": 130724274,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/YouTubeOLED-18.46.3.ipa",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+    },
   ]
 }
