@@ -285,5 +285,38 @@
       "localizedDescription": "A kfd exploit jailbreak alternative",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
     },
+    {
+      "name": "Noir",
+      "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
+      "version": "2023.2.5",
+      "versionDate": "2023-11-10",
+      "size": 7581044,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/Noir-2023.2.5.ipa",
+      "developerName": "Noir",
+      "localizedDescription": "basically safari with darkmode",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/nl.jeffreykuiken.NoirApp.png"
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.12",
+      "versionDate": "2023-11-10",
+      "size": 59917069,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/QuizletPlus-8.12.ipa",
+      "developerName": "Quizlet",
+      "localizedDescription": "Studying platform",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
+    },
+    {
+      "name": "Aloha VPN++",
+      "bundleIdentifier": "com.vpn.ios.Aloha",
+      "version": "2.0.0",
+      "versionDate": "2023-11-10",
+      "size": 101266000,
+      "downloadURL": "https://www.dropbox.com/scl/fi/8fv4in5zs8mlaivid9kyc/Aloha-VPN-_2.0.0_LeTi.ipa?rlkey=a316hoeh5yfpvxu6ikzt0ipn1&dl=1",
+      "developerName": "Quizlet",
+      "localizedDescription": "Studying platform",
+      "iconURL": "https://ipalibrary.me/wp-content/uploads/2023/07/Aloha-VPN-150x150.jpeg"
+    },
   ]
 }
