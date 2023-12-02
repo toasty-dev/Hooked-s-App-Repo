@@ -17,5 +17,16 @@
       "localizedDescription": "Youtube injected with uYou+",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
+    {
+      "name": "Spotify Tweaked",
+      "bundleIdentifier": "com.spotify.ios.spotify",
+      "version": "8.8.81",
+      "versionDate": "2023-11-24",
+      "size": 65423000,
+      "downloadURL": "https://www.dropbox.com/scl/fi/f4c8h24pe0o7bzz9wum01/Spotify_8.8.81.ipa?rlkey=xibeedtpaodh84tf62yfx5rgd&dl=1",
+      "developerName": "Spotify",
+      "localizedDescription": "Spotify with free premium",
+      "iconURL": "https://www.dropbox.com/scl/fi/ch8t5wr5822mu3m49ys49/image_2023-12-01_214042622.png?rlkey=qfbmjwggbllu0smar2bu0etom&dl=1"
+    },
   ]
 }
