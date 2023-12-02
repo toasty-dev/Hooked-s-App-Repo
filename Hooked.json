@@ -9,11 +9,11 @@
   "tintColor": "#4185A9",
   "apps": [
       {
-          "name": "My Example App",
-          "bundleIdentifier": "com.example.myapp",
-          "developerName": "Example Developer",
-          "subtitle": "An awesome app.",
-    "localizedDescription": "This is an awesome app only available on AltStore.",
+          "name": "uYou++",
+          "bundleIdentifier": "uYouplus.cummy",
+          "developerName": "Google",
+          "subtitle": "Youtube",
+    "localizedDescription": "uYou++ is a tweak for youtube",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
           "tintColor": "#5CA399",
     "screenshotURLs": [
