@@ -1,138 +1,21 @@
 {
-  "name": "Hooked's App Repo",
-  "identifier": "github.com/Poopsock98/Hooked-s-App-Repo",
+  "name": "Hooked's App Lib",
+  "identifier": "xyz.hooked.ipalib",
   "subtitle": "A simple way to get a bunch of nice tweaks in one place",
-  "description": "Thanks for using my source, its sooooo good",
+  "description": "Shitty Ipa Libary",
   "iconURL": "https://cdn.discordapp.com/attachments/1173148307468595321/1180294634036011160/120754355.png?ex=657ce609&is=656a7109&hm=b95683b9815011892f4fd431dfb1a724df3311908c83bee023b48dce7ade3a6b&",
-  "headerURL": "https://cdn.discordapp.com/attachments/1173148307468595321/1180294634036011160/120754355.png?ex=657ce609&is=656a7109&hm=b95683b9815011892f4fd431dfb1a724df3311908c83bee023b48dce7ade3a6b&",
   "website": "https://raw.githubusercontent.com/Poopsock98/Hooked-s-App-Repo/main/Hooked.json",
-  "tintColor": "#4185A9",
   "apps": [
-      {
-          "name": "uYou++",
-          "bundleIdentifier": "uYouplus.cummy",
-          "developerName": "Google",
-          "subtitle": "Youtube",
-    "localizedDescription": "uYou++ is a tweak for youtube",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-          "tintColor": "#5CA399",
-    "screenshotURLs": [
-              "https://example.com/myapp_screenshot1.png",
-              "https://example.com/myapp_screenshot2.png",
-              "https://example.com/myapp_screenshot3.png"
-          ],
-          "versions": [
-              {
-                  "version": "1.1",
-                  "date": "2022-05-01T09:00:00-08:00",
-        "size": 20000000,
-        "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-        "localizedDescription": "New features and bug fixes.",
-        "minOSVersion": "12.0"},
-              {
-                  "version": "1.0",
-                  "date": "2022-03-16T07:00:00-08:00",
-        "size": 10000000,
-        "downloadURL": "https://example.com/myapp_v1.0.ipa",
-        "localizedDescription": "Initial release."
-              }
-          ],
-    "appPermissions": {
-      "entitlements": [
-        {
-          "name": "com.apple.security.application-groups"
-        },
-        {
-          "name": "com.apple.developer.siri"
-        }
-      ],
-      "privacy": [
-        {
-          "name": "PhotoLibrary",
-          "usageDescription": "App saves photos to your Photo Library."
-        }
-      ]
+    {
+      "name": "uYou++",
+      "bundleIdentifier": "com.uyou.ipa",
+      "version": "18.14.1_3.0",
+      "versiondate": "2023-11-07",
+      "size": 120979,
+      "downloadURL": "https://www.dropbox.com/scl/fi/enapckddgz7ngb0qv8w16/uYouPlus_18.14.1_3.0.ipa?rlkey=jfnp9j7uokky2ubtkozvgq3ul&dl=1",
+      "developerName" "Google LLC.",
+      "localizedDescription": "",
+      "iconURL": "https://www.dropbox.com/scl/fi/7qgiizo63rn7qgi7joo5r/com.google.ios.youtube.png?rlkey=58ivpuyg17gztgc5bz25vh79o&dl=1"
     }
-  },
-      {
-          "name": "Another Example App",
-          "bundleIdentifier": "com.example.anotherapp",
-          "developerName": "Example Developer",
-          "subtitle": "Another awesome app.",
-    "localizedDescription": "This is another awesome app only available on AltStore.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
-          "tintColor": "#3660A2",
-    "screenshotURLs": [
-              "https://example.com/anotherapp_screenshot1.png",
-              "https://example.com/anotherapp_screenshot2.png",
-              "https://example.com/anotherapp_screenshot3.png"
-          ],
-          "versions": [
-              {
-                  "version": "1.2",
-                  "date": "2022-06-21T09:00:00-08:00",
-                  "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
-        "localizedDescription": "Bug fixes and performance improvements."
-              ,
-        "size": 81514,
-        "minOSVersion": "13.0"
-      },
-              {
-                  "version": "1.1",
-                  "date": "2022-04-15T10:00:00-08:00",
-                  "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
-        "localizedDescription": "New features!"
-              ,
-        "size": 81364,
-        "minOSVersion": "13.0",
-                  "maxOSVersion": "16.3"
-      },
-              {
-                  "version": "1.0",
-                  "date": "2022-02-02T07:00:00-08:00",
-                  "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
-        "localizedDescription": "Initial release.",
-        "size": 79821
-      }
-          ],
-    "appPermissions": {
-      "entitlements": [
-        {
-          "name": "com.apple.security.application-groups"
-        },
-        {
-          "name": "com.apple.developer.siri"
-        }
-      ],
-      "privacy": [
-        {
-          "name": "LocalNetwork",
-          "usageDescription": "App scans the local network for nearby computers."
-        }
-      ]
-    }
-  }
-  ],
-  "news": [
-{
-  "title": "New Feature Announcement",
-  "identifier": "new_feature",
-  "caption": "Introducing a new feature in AltStore!",
-  "date": "2023-03-15",
-  "tintColor": "#5CA399",
-  "imageURL": "https://example.com/new_feature_image.png",
-  "notify": true,
-  "url": "https://example.com/new_feature_details"
-  },
-{
-  "title": "App Update Available",
-  "identifier": "app_update",
-  "caption": "An update is available for My Example App.",
-  "date": "2023-03-10T10:00:00-07:00",
-  "tintColor": "#3660A2",
-  "imageURL": "https://example.com/app_update_image.png",
-  "notify": false,
-    "appID": "com.example.myapp"
-}
-]
+  ]
 }
