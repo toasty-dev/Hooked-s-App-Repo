@@ -33,7 +33,7 @@
       "bundleIdentifier": "com.snapchat.ios.snapchat",
       "version": "12.59.0",
       "versionDate": "2023-11-24",
-      "size": 100996000,
+      "size": 103419568,
       "downloadURL": "https://www.dropbox.com/scl/fi/bx4o7r54xyfol4xtt9o41/Snapchat_Wicked_Cracked_v.12.59.0_WuXu1_uploadedBy_ipabnb_starfiles.co.ipa?rlkey=xelepq3x1ogxhxy1fs7g2xmwc&dl=1",
       "developerName": "SnapChat",
       "localizedDescription": "Snapchat wicked, when entering a license just enter any 15 digit email and a 15 digit license and it will verify.",
@@ -137,6 +137,39 @@
       "developerName": "Adobe",
       "localizedDescription": "Its just smaller photoshop.",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+    },
+    {
+      "name": "BeRealBea",
+      "bundleIdentifier": "AlexisBarreyat.ios.BeReal",
+      "version": "1.3.3-1.17.2",
+      "versionDate": "2023-11-29",
+      "size": 39128874,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2023/BeRealBea-1.3.3-1.17.2.ipa",
+      "developerName": "BeReal",
+      "localizedDescription": "BeReal injected with BeRealBea",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
+    },
+    {
+      "name": "InstaRocketBH",
+      "bundleIdentifier": "com.burbn.ios.instagram",
+      "version": "309.1.1-3.8.17",
+      "versionDate": "2023-11-20",
+      "size": 130879951,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2023/InstaRocketBH-309.1.1-3.8.17.ipa",
+      "developerName": "Meta",
+      "localizedDescription": "Instagram injected with InstaRocketBH",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+    },
+    {
+      "name": "SpeedtestPremium",
+      "bundleIdentifier": "com.ookla.ios.speedtest",
+      "version": "5.2.1",
+      "versionDate": "2023-11-18",
+      "size": 51508775,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/SpeedtestPremium-5.2.1.ipa",
+      "developerName": "Ookla",
+      "localizedDescription": "Wifi speed test..",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
     },
   ]
 }
