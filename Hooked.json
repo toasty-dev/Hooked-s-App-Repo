@@ -182,5 +182,38 @@
       "localizedDescription": "Ai math helper",
       "iconURL": "https://download.starfiles.co/R5BXjNOOHZNH?preview"
     },
+    {
+      "name": "PhotomathPlus",
+      "bundleIdentifier": "com.microblink.ios.PhotoMath",
+      "version": "8.30.0",
+      "versionDate": "2023-09-27",
+      "size": 10877296,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/PhotomathPlus-8.30.0.ipa",
+      "developerName": "Photomath",
+      "localizedDescription": "Photomath with premium features unlocked",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
+    },
+    {
+      "name": "RedditPlus",
+      "bundleIdentifier": "com.reddit.ios.Reddit",
+      "version": "2023.45.0",
+      "versionDate": "2023-11-14",
+      "size": 128714278,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2023/RedditPlus-2023.45.0.ipa",
+      "developerName": "Reddit",
+      "localizedDescription": "Reddit injected with RedditPlus",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
+    },
+    {
+      "name": "TwitchPlus",
+      "bundleIdentifier": "tv.ios.twitch",
+      "version": "16.4",
+      "versionDate": "2023-09-27",
+      "size": 73502584,
+      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-27-2023/TwitchPlus-16.4.ipa",
+      "developerName": "Twitch",
+      "localizedDescription": "Twitch Injected with TwitchPlus",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
+    },
   ]
 }
