@@ -61,5 +61,27 @@
       "localizedDescription": "A beta version of scarlet that allows the use of outside certificates.",
       "iconURL": "https://www.dropbox.com/scl/fi/3h4a1ne75mobmfbgq3u71/image_2023-12-01_224258956.png?rlkey=ylqpd5pnm8dqx4piwsu24kjqd&dl=1"
     },
+    {
+      "name": "BHTwitter",
+      "bundleIdentifier": "com.twitter.ios.twitter",
+      "version": "10.10",
+      "versionDate": "2023-11-24",
+      "size": "97200000",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ol57pie4nv25mxhrap9oe/BHTwitter-sideload.ipa?rlkey=5oy0yw4cwtqeq27cjvix0ulhy&dl=1",
+      "developerName": "X",
+      "localizedDescription": "X injected with BHTwitter.",
+      "iconURL": "https://www.dropbox.com/scl/fi/ym76fknz5ryek4s0tji90/image_2023-12-02_061602931.png?rlkey=qmyjsg2zrmzgarl3rxph1mg90&dl=1"
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "com.ignited.ios.lit",
+      "version": "1.6.1",
+      "versionDate": "2023-11-24",
+      "size": "53926000",
+      "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.6.1/Ignited.ipa",
+      "developerName": "Ignited",
+      "localizedDescription": "A multicore emulator that can play from NES-DSI",
+      "iconURL": "https://www.dropbox.com/scl/fi/nptq005359muipabnvuic/be7e7c4544c64e52d08e557c6f822ba4.png?rlkey=vdo63lt6814smm4vsfoiojvuy&dl=0"
+    },
   ]
 }
