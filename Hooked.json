@@ -16,6 +16,7 @@
       "category": "Tweaked Apps",
       "developerName": "Google LLC.",
       "localizedDescription": "Youtube injected with uYou+",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
@@ -28,6 +29,7 @@
       "category": "Tweaked Apps",
       "developerName": "Spotify",
       "localizedDescription": "Spotify with free premium",
+      "enableBackup": true,
       "iconURL": "https://www.dropbox.com/scl/fi/ch8t5wr5822mu3m49ys49/image_2023-12-01_214042622.png?rlkey=qfbmjwggbllu0smar2bu0etom&dl=1"
     },
     {
@@ -40,6 +42,7 @@
       "category": "Tweaked Apps",
       "developerName": "SnapChat",
       "localizedDescription": "Snapchat wicked, when entering a license just enter any 15 digit email and a 15 digit license and it will verify.",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
@@ -52,6 +55,7 @@
       "category": "Tweaked Apps",
       "developerName": "Discord",
       "localizedDescription": "A discord client mod like betterdiscord or vencord.",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
@@ -64,6 +68,7 @@
       "category": "Sideloading Tools",
       "developerName": "Scarlet",
       "localizedDescription": "A beta version of scarlet that allows the use of outside certificates.",
+      "enableBackup": true,
       "iconURL": "https://www.dropbox.com/scl/fi/3h4a1ne75mobmfbgq3u71/image_2023-12-01_224258956.png?rlkey=ylqpd5pnm8dqx4piwsu24kjqd&dl=1"
     },
     {
@@ -76,6 +81,7 @@
       "category": "Tweaked Apps",
       "developerName": "X",
       "localizedDescription": "X injected with BHTwitter.",
+      "enableBackup": true,
       "iconURL": "https://www.dropbox.com/scl/fi/ym76fknz5ryek4s0tji90/image_2023-12-02_061602931.png?rlkey=qmyjsg2zrmzgarl3rxph1mg90&dl=1"
     },
     {
@@ -88,6 +94,7 @@
       "category": "Emulators",
       "developerName": "Ignited",
       "localizedDescription": "A multicore emulator that can play from NES-DSI",
+      "enableBackup": true,
       "iconURL": "https://www.dropbox.com/scl/fi/nptq005359muipabnvuic/be7e7c4544c64e52d08e557c6f822ba4.png?rlkey=vdo63lt6814smm4vsfoiojvuy&dl=0"
     },
     {
@@ -100,6 +107,7 @@
       "category": "Tweaked Apps",
       "developerName": "Tiktok",
       "localizedDescription": "Tiktok injected with TiktokDark",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
     },
     {
@@ -112,6 +120,7 @@
       "category": "Tweaked Games",
       "developerName": "Nintendo",
       "localizedDescription": "iPogo is a spoofer for Pokemon Go, this just allows you to move anywhere using it, pretty simple.",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png"
     },
     {
@@ -124,6 +133,7 @@
       "category": "Sideloading Tools",
       "developerName": "iTorrent",
       "localizedDescription": "A torrenting client for IOS",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png"
     },
     {
@@ -136,6 +146,7 @@
       "category": "Tweaked Apps",
       "developerName": "Meta",
       "localizedDescription": "Facebook injected with FacebookWolf, I have never used this tweak, goodluck.",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.facebook.Facebook.png"
     },
     {
@@ -148,6 +159,7 @@
       "category": "Cracks",
       "developerName": "Adobe",
       "localizedDescription": "Its just smaller photoshop.",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
     },
     {
@@ -160,6 +172,7 @@
       "category": "Tweaked Apps",
       "developerName": "BeReal",
       "localizedDescription": "BeReal injected with BeRealBea",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png"
     },
     {
@@ -172,6 +185,7 @@
       "category": "Tweaked Apps",
       "developerName": "Meta",
       "localizedDescription": "Instagram injected with InstaRocketBH",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
     },
     {
@@ -184,6 +198,7 @@
       "category": "Cracks",
       "developerName": "Ookla",
       "localizedDescription": "Wifi speed test..",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
     },
     {
@@ -196,6 +211,7 @@
       "category": "Cracks",
       "developerName": "Quizard",
       "localizedDescription": "Ai math helper",
+      "enableBackup": true,
       "iconURL": "https://download.starfiles.co/R5BXjNOOHZNH?preview"
     },
     {
@@ -208,6 +224,7 @@
       "category": "Tweaked Apps",
       "developerName": "Photomath",
       "localizedDescription": "Photomath with premium features unlocked",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png"
     },
     {
@@ -220,6 +237,7 @@
       "category": "Tweaked Apps",
       "developerName": "Reddit",
       "localizedDescription": "Reddit injected with RedditPlus",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.reddit.Reddit.png"
     },
     {
@@ -232,6 +250,7 @@
       "category": "Tweaked Apps",
       "developerName": "Twitch",
       "localizedDescription": "Twitch Injected with TwitchPlus",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png"
     },
     {
@@ -244,6 +263,7 @@
       "category": "Tweaked Apps",
       "developerName": "Google LLC.",
       "localizedDescription": "Youtube Music injected with YTMusicUltimate",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
     },
     {
@@ -256,6 +276,7 @@
       "category": "Sideloading Tools",
       "developerName": "DepToIpa",
       "localizedDescription": "Will change a Deb file to a usable IPA",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png"
     },
     {
@@ -268,6 +289,7 @@
       "category": "Cracks",
       "developerName": "Procreate",
       "localizedDescription": "The best art app for ios",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate.png"
     },
     {
@@ -280,6 +302,7 @@
       "category": "Sideloading Tools",
       "developerName": "Esign",
       "localizedDescription": "A app for signing unsigned apps.",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png"
     },
     {
@@ -294,6 +317,7 @@
       "category": "Jailbreaks/Exploits",
       "developerName": "leemin",
       "localizedDescription": "A kfd exploit jailbreak alternative",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
     },
     {
@@ -308,6 +332,7 @@
       "category": "Jailbreaks/Exploits",
       "developerName": "leemin",
       "localizedDescription": "A kfd exploit jailbreak alternative",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
     },
     {
@@ -320,6 +345,7 @@
       "category": "Tweaked Apps",
       "developerName": "Noir",
       "localizedDescription": "basically safari with darkmode",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/nl.jeffreykuiken.NoirApp.png"
     },
     {
@@ -332,6 +358,7 @@
       "category": "Tweaked Apps",
       "developerName": "Quizlet",
       "localizedDescription": "Studying platform",
+      "enableBackup": true,
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png"
     },
     {
@@ -344,6 +371,7 @@
       "category": "Cracks",
       "developerName": "Aloha",
       "localizedDescription": "A premium vpn for free",
+      "enableBackup": true,
       "iconURL": "https://ipalibrary.me/wp-content/uploads/2023/07/Aloha-VPN-150x150.jpeg"
     },
   ]
