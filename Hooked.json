@@ -413,5 +413,18 @@
       "enableBackup": true,
       "iconURL": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/986648642d1a68a3178f6869689cc260.png"
     },
+    {
+      "name": "Subway Surfers",
+      "bundleIdentifier": "com.game.ios.minecraft",
+      "version": "3.21.1",
+      "versionDate": "2023-11-10",
+      "size": 128000000,
+      "downloadURL": "https://www.dropbox.com/scl/fi/4kwnic99qrqkldv9r6878/Subway-Surf-KamoHacks-3.21.1.ipa?rlkey=hggg59ok7l94lzlrgf9ipj74w&dl=1",
+      "category": "Tweaked Games",
+      "developerName": "Subway Surfers",
+      "localizedDescription": "Unlimited coins, and multijump hack",
+      "enableBackup": true,
+      "iconURL": "https://play-lh.googleusercontent.com/RxkRzr__LkRttN1r5Zfh2BMzaG7NKf7iL8yj8f1TKIfwNSuRn29zxGh4b1vbEmsNJjPJ"
+    },
   ]
 }
