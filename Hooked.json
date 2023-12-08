@@ -374,5 +374,44 @@
       "enableBackup": true,
       "iconURL": "https://ipalibrary.me/wp-content/uploads/2023/07/Aloha-VPN-150x150.jpeg"
     },
+    {
+      "name": "Plants Vs Zombies 2",
+      "bundleIdentifier": "com.game.ios.PVZ",
+      "version": "v858",
+      "versionDate": "2023-11-10",
+      "size": 88700000,
+      "downloadURL": "https://www.dropbox.com/scl/fi/7afk84cs7qhw3era7cvvw/PvZ-2-KamoHacks-858.ipa?rlkey=cpwpj38eegk4rj0t7hda7et98&dl=1",
+      "category": "Tweaked Games",
+      "developerName": "PopCap",
+      "localizedDescription": "PVZ2 with unlimited coins, gems, and mints.",
+      "enableBackup": true,
+      "iconURL": "https://s1.mzstatic.com/us/r1000/037/Purple6/v4/e8/e1/7a/e8e17a76-3370-159f-48c1-ff079416382c/mzl.cxbuxsls.png"
+    },
+    {
+      "name": "True Skate",
+      "bundleIdentifier": "com.game.ios.trueskate",
+      "version": "1.5.71",
+      "versionDate": "2023-11-10",
+      "size": 174800000,
+      "downloadURL": "https://dwdisc.com/fdl/cd1b9aa9-1256-4328-9ce4-cb885c0decb2/True-Skate-v1-5-71.ipa",
+      "category": "Tweaked Games",
+      "developerName": "True Skate",
+      "localizedDescription": "Usually 2$ in the appstore, now made free",
+      "enableBackup": true,
+      "iconURL": "https://media.indiedb.com/images/games/1/79/78188/0BBFD563-5840-4C32-B7D6-917E7B60.jpeg"
+    },
+    {
+      "name": "True Skate",
+      "bundleIdentifier": "com.game.ios.minecraft",
+      "version": "1.20.41",
+      "versionDate": "2023-11-10",
+      "size": 642000000,
+      "downloadURL": "https://dwdisc.com/fdl/5bc769d2-e203-48b5-b80d-ff8a23a1f434/Minecraft-v1-20-411.ipa",
+      "category": "Tweaked Games",
+      "developerName": "Mojang",
+      "localizedDescription": "Free Minecraft",
+      "enableBackup": true,
+      "iconURL": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/986648642d1a68a3178f6869689cc260.png"
+    },
   ]
 }
