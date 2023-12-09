@@ -59,6 +59,19 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
+      "name": "Enminity Testing Version",
+      "bundleIdentifier": "com.enminity.ios.discord",
+      "version": "2.2.6",
+      "versionDate": "2023-11-24",
+      "size": 98173000,
+      "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+      "category": "Tweaked Applications",
+      "developerName": "Discord",
+      "localizedDescription": "A discord client mod like betterdiscord or vencord.",
+      "enableBackup": true,
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
+    },
+    {
       "name": "Scarlet Alpha",
       "bundleIdentifier": "com.scarlet.ios.appstore",
       "version": "1.0",
