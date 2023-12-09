@@ -60,7 +60,7 @@
     },
     {
       "name": "Enminity Testing Version",
-      "bundleIdentifier": "com.enminity.ios.discord",
+      "bundleIdentifier": "com.enminity.ios.discord.test",
       "version": "2.2.6",
       "versionDate": "2023-11-24",
       "size": 98173000,
