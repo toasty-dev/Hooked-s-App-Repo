@@ -46,9 +46,9 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png"
     },
     {
-      "name": "Enminity for Discord",
+      "name": "Enminity Old UI",
       "bundleIdentifier": "com.enminity.ios.discord",
-      "version": "2.2.6",
+      "version": "v175",
       "versionDate": "2023-11-24",
       "size": 98173000,
       "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.5/Enmity.ipa",
@@ -59,9 +59,9 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png"
     },
     {
-      "name": "Enminity Testing Version",
+      "name": "Enminity New UI",
       "bundleIdentifier": "com.enminity.ios.discord.test",
-      "version": "2.2.6",
+      "version": "v207",
       "versionDate": "2023-11-24",
       "size": 98173000,
       "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
