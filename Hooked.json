@@ -20,7 +20,7 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
     },
     {
-      "name": "Spotify Tweaked",
+      "name": "Spotify Deluxe",
       "bundleIdentifier": "com.spotify.ios.spotify",
       "version": "8.8.81",
       "versionDate": "2023-11-24",
@@ -28,9 +28,23 @@
       "downloadURL": "https://www.dropbox.com/scl/fi/f4c8h24pe0o7bzz9wum01/Spotify_8.8.81.ipa?rlkey=xibeedtpaodh84tf62yfx5rgd&dl=1",
       "category": "Tweaked Applications",
       "developerName": "Spotify",
-      "localizedDescription": "Spotify with free premium",
+      "localizedDescription": "Spotify with a nice oled theme and free premium, has low support for certain ios versions or ",
       "enableBackup": true,
       "iconURL": "https://www.dropbox.com/scl/fi/ch8t5wr5822mu3m49ys49/image_2023-12-01_214042622.png?rlkey=qfbmjwggbllu0smar2bu0etom&dl=1"
+    },
+    {
+      "name": "Sposify++",
+      "version": "8.6.42",
+      "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
+      "category": "Tweaked Apps",
+      "description": "Spotify Deluxe has more features but less support for older devices, this one works on more ios versions and iphones! (less features tho.)",
+      "bundleID": "com.spotify.client.ios",
+      "appstore": "com.spotify.client.ios",
+      "debs": [
+        "https://usescarlet.com/debs/Spotilife.dylib",
+        "https://usescarlet.com/debs/Sposify.dylib",
+        "https://usescarlet.com/debs/SposifyFix.dylib"
+      ],
     },
     {
       "name": "Snapchat Wicked Crack",
