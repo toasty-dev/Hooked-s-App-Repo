@@ -36,8 +36,8 @@
       "name": "Sposify++",
       "version": "8.6.42",
       "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
-      "category": "Tweaked Apps",
-      "description": "Sposify and Spotilife tweak merged into one app",
+      "category": "Tweaked Applications",
+      "description": "A tweaked spotify client with less features but more compatability with devices and ios versions.",
       "bundleID": "com.spotify.client",
       "appstore": "com.spotify.client",
       "debs": [
@@ -45,7 +45,6 @@
         "https://usescarlet.com/debs/Sposify.dylib",
         "https://usescarlet.com/debs/SposifyFix.dylib"
       ],
-      "changelog": "- Updated Spotilife to v1.8"
     },
     {
       "name": "Snapchat Wicked Crack",
