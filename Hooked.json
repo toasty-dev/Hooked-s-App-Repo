@@ -33,20 +33,6 @@
       "iconURL": "https://www.dropbox.com/scl/fi/ch8t5wr5822mu3m49ys49/image_2023-12-01_214042622.png?rlkey=qfbmjwggbllu0smar2bu0etom&dl=1"
     },
     {
-      "name": "Sposify++",
-      "version": "8.6.42",
-      "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
-      "category": "Tweaked Apps",
-      "description": "Spotify Deluxe has more features but less support for older devices, this one works on more ios versions and iphones! (less features tho.)",
-      "bundleID": "com.spotify.client.ios",
-      "appstore": "com.spotify.client.ios",
-      "debs": [
-        "https://usescarlet.com/debs/Spotilife.dylib",
-        "https://usescarlet.com/debs/Sposify.dylib",
-        "https://usescarlet.com/debs/SposifyFix.dylib"
-      ],
-    },
-    {
       "name": "Snapchat Wicked Crack",
       "bundleIdentifier": "com.snapchat.ios.snapchat",
       "version": "12.59.0",
