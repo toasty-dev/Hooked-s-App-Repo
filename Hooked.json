@@ -364,19 +364,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
     },
     {
-      "name": "Noir",
-      "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
-      "version": "2023.2.5",
-      "versionDate": "2023-11-10",
-      "size": 7581044,
-      "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-10-2023/Noir-2023.2.5.ipa",
-      "category": "Tweaked Applications",
-      "developerName": "Noir",
-      "localizedDescription": "basically safari with darkmode",
-      "enableBackup": true,
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/nl.jeffreykuiken.NoirApp.png"
-    },
-    {
       "name": "QuizletPlus",
       "bundleIdentifier": "com.quizlet.quizlet",
       "version": "8.12",
