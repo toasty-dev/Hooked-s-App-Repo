@@ -364,21 +364,6 @@
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.Cowabunga.png"
     },
     {
-      "name": "TrollStore",
-      "bundleIdentifier": "com.ios.trollstore",
-      "version": "2.8",
-      "versionDate": "2023-06-04",
-      "size": 8162000,
-      "minOSVersion": "15.1",
-      "maxOSVersion": "17.0.0 RC",
-      "downloadURL": "https://github.com/leminlimez/Cluckabunga/releases/download/v2.2.1/Cluckabunga.ipa",
-      "category": "Jailbreaks/Exploits",
-      "developerName": "oo1415",
-      "localizedDescription": "A way to permasign ipas. may not work due to install method not sure just trying!",
-      "enableBackup": true,
-      "iconURL": "https://trollstore.app/wp-content/webp-express/webp-images/uploads/2022/09/TrollStore-Logo-300x300.jpg.webp"
-    },
-    {
       "name": "Noir",
       "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
       "version": "2023.2.5",
