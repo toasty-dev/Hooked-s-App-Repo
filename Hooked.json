@@ -442,7 +442,7 @@
     },
     {
       "name": "Subway Surfers Tweaked",
-      "bundleIdentifier": "com.game.ios.minecraft",
+      "bundleIdentifier": "com.game.ios.surfers",
       "version": "3.21.1",
       "versionDate": "2023-11-10",
       "size": 128000000,
@@ -452,6 +452,19 @@
       "localizedDescription": "Unlimited coins, and multijump hack",
       "enableBackup": true,
       "iconURL": "https://play-lh.googleusercontent.com/RxkRzr__LkRttN1r5Zfh2BMzaG7NKf7iL8yj8f1TKIfwNSuRn29zxGh4b1vbEmsNJjPJ"
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "com.game.ios.flappybird",
+      "version": "4.3",
+      "versionDate": "2023-11-10",
+      "size": 2000000,
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "category": "Tweaked Games",
+      "developerName": "Flappy Bird",
+      "localizedDescription": "Flappy Bird, on new ios?",
+      "enableBackup": true,
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png"
     },
   ]
 }
