@@ -469,7 +469,7 @@
     {
       "name": "Five Nights At Freddy's",
       "bundleIdentifier": "com.game.ios.fnaf",
-      "version": "v1",
+      "version": "v2.02",
       "versionDate": "2023-11-10",
       "size": 109000000,
       "downloadURL": "https://download.starfiles.co/0aab47",
@@ -478,6 +478,19 @@
       "localizedDescription": "Free?!?!?!",
       "enableBackup": true,
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/five-nights-at-freddyamp39s-poster.png"
+    },
+    {
+      "name": "Five Nights At Freddy's 2",
+      "bundleIdentifier": "com.game.ios.fnaf2",
+      "version": "v2.3",
+      "versionDate": "2023-11-10",
+      "size": 181000000,
+      "downloadURL": "https://download.starfiles.co/d1f37dfa7d5b",
+      "category": "Tweaked Games",
+      "developerName": "Scott Cawthan",
+      "localizedDescription": "Free?!?!?!",
+      "enableBackup": true,
+      "iconURL": "https://assets1.ignimgs.com/2020/02/04/five-nights-at-freddys-2---button-2020-1580781479013.jpg?width=300&crop=1%3A1%2Csmart&auto=webp"
     },
   ]
 }
