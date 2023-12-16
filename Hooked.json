@@ -466,5 +466,18 @@
       "enableBackup": true,
       "iconURL": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png"
     },
+    {
+      "name": "Five Nights At Freddy's",
+      "bundleIdentifier": "com.game.ios.fnaf",
+      "version": "v1",
+      "versionDate": "2023-11-10",
+      "size": 280000000,
+      "downloadURL": "https://omtk.xyz/IPA/Five-Nights-at-Freddys.ipa",
+      "category": "Tweaked Games",
+      "developerName": "Scott Cawthan",
+      "localizedDescription": "Free?!?!?!",
+      "enableBackup": true,
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/five-nights-at-freddyamp39s-poster.png"
+    },
   ]
 }
