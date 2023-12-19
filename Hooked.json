@@ -521,7 +521,7 @@
     {
       "name": "Terraria",
       "bundleIdentifier": "com.game.ios.terraria",
-      "version": "v2.3",
+      "version": "1.4.4.10",
       "versionDate": "2023-11-10",
       "size": 156336000,
       "downloadURL": "https://download.starfiles.co/OUdoYdrD5W8g",
@@ -530,6 +530,32 @@
       "localizedDescription": "Terraria for free",
       "enableBackup": true,
       "iconURL": "https://play-lh.googleusercontent.com/V8vfEXuoaIMKZK6GAmWEQe33VdDeEwg1lLyajFrzvghfRiExEWzHJWuZNd9EJzYVF-zR=s48"
+    },
+    {
+      "name": "Getting Over It",
+      "bundleIdentifier": "com.game.ios.gettingoverit",
+      "version": "1.05",
+      "versionDate": "2023-11-10",
+      "size": 156336000,
+      "downloadURL": "https://download.starfiles.co/64d7be35f334",
+      "category": "Tweaked Games",
+      "developerName": "Idfk",
+      "localizedDescription": "Getting over it for free",
+      "enableBackup": true,
+      "iconURL": "https://download.starfiles.co/oAPqmRhg38gG?preview"
+    },
+    {
+      "name": "Fnaf 4",
+      "bundleIdentifier": "com.game.ios.fnaf4",
+      "version": "1.05",
+      "versionDate": "2023-11-10",
+      "size": 156336000,
+      "downloadURL": "https://download.starfiles.co/e39af57e3aed",
+      "category": "Tweaked Games",
+      "developerName": "Scott Cawthan",
+      "localizedDescription": "Wow fnaf 4 but free! wowzalisous!",
+      "enableBackup": true,
+      "iconURL": "https://static.wikia.nocookie.net/fivenightsatfreddys/images/6/6c/Fnaf_4_desktop_icon.jpg/revision/latest?cb=20150724183458"
     },
   ]
 }
