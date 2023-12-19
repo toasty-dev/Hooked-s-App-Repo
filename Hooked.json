@@ -505,5 +505,31 @@
       "enableBackup": true,
       "iconURL": "https://download.starfiles.co/P8SWUOzTmxQD?preview"
     },
+    {
+      "name": "Survival Craft 2",
+      "bundleIdentifier": "com.game.ios.survivalcraft",
+      "version": "v2.3",
+      "versionDate": "2023-11-10",
+      "size": 181000000,
+      "downloadURL": "https://download.starfiles.co/0ca1f6801167",
+      "category": "Tweaked Games",
+      "developerName": "Survival Craft",
+      "localizedDescription": "Decent game",
+      "enableBackup": true,
+      "iconURL": "https://play-lh.googleusercontent.com/qHOeTdOzb4hvtT0DbSyZauFAr8BhgCY1QyMP6loiJEkZzkHxwi7ZqdWZbdS-__qsOA4=w240-h480"
+    },
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.game.ios.terraria",
+      "version": "v2.3",
+      "versionDate": "2023-11-10",
+      "size": 156336000,
+      "downloadURL": "https://download.starfiles.co/OUdoYdrD5W8g",
+      "category": "Tweaked Games",
+      "developerName": "Relogic",
+      "localizedDescription": "Terraria for free",
+      "enableBackup": true,
+      "iconURL": "https://play-lh.googleusercontent.com/V8vfEXuoaIMKZK6GAmWEQe33VdDeEwg1lLyajFrzvghfRiExEWzHJWuZNd9EJzYVF-zR=s48"
+    },
   ]
 }
